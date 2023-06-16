@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-15T16:54:52 IST" name="Default suite" finished-at="2023-06-15T16:55:49 IST" duration-ms="56723">
+    <groups>
+    </groups>
+    <test started-at="2023-06-15T16:54:52 IST" name="Default test" finished-at="2023-06-15T16:55:49 IST" duration-ms="56723">
+      <class name="clm.clm_regression">
+        <test-method is-config="true" signature="login()[pri:0, instance:clm.clm_regression@446293d]" started-at="2023-06-15T16:54:52 IST" name="login" finished-at="2023-06-15T16:55:22 IST" duration-ms="30373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="click_admin()[pri:0, instance:clm.clm_regression@446293d]" started-at="2023-06-15T16:55:22 IST" name="click_admin" finished-at="2023-06-15T16:55:49 IST" duration-ms="26276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_admin -->
+      </class> <!-- clm.clm_regression -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
